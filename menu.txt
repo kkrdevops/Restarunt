@@ -2,3 +2,6 @@ my menu details
 
 tea
 cofee
+dosa
+idely
+
